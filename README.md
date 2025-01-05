@@ -11,3 +11,7 @@ This is a cross-platform CLI utility tool developed to extend the famous Linux `
 - Real-Time Monitoring
   - [ ] File System Watching
   - [ ] Polling for Disk Usage
+
+ ### Setup
+
+ The distribution package will be available soon.
