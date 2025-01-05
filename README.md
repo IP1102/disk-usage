@@ -4,10 +4,10 @@ This is a cross-platform CLI utility tool developed to extend the famous Linux `
 
 ### Features
 
-- [] Intelligent Recommendations
-  - [] Analyzing Disk Usage Patterns
-  - [] Duplicate File Detection
-  - [] Compression and Archiving Suggestions
-- [] Real-Time Monitoring
-  - [] File System Watching
-  - [] Polling for Disk Usage
+- Intelligent Recommendations
+  - [ ] Analyzing Disk Usage Patterns
+  - [ ] Duplicate File Detection
+  - [ ] Compression and Archiving Suggestions
+- Real-Time Monitoring
+  - [ ] File System Watching
+  - [ ] Polling for Disk Usage
